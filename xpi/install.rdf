@@ -4,7 +4,7 @@
     <em:id>firesheep@codebutler.com</em:id>
     <em:type>2</em:type>
     <em:name>Firesheep</em:name>
-    <em:version>1.5</em:version>
+    <em:version>14.0.1</em:version>
     <em:creator>Eric Butler</em:creator>
     <em:contributor></em:contributor>
     <em:aboutURL>chrome://firesheep/content/about.xul</em:aboutURL>
